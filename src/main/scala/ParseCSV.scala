@@ -6,5 +6,5 @@ object ParseCSV extends App{
   spark.sql("select 'hello' as msg").show
 
 
-  print("end")
+  print("end now")
 }
